@@ -7,6 +7,7 @@
     justify-content: space-between;
     align-content: center;
     flex-wrap: wrap;
+    margin: 0p auto;
 
 
 }
@@ -16,7 +17,6 @@ background-color:#0000ff;
 width: 1995px;
 height: 127px;
 position: fixed;
-/* z-index: -1; */
 }
 .main{
  margin: 200px auto 40px auto;
